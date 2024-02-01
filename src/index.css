@@ -970,6 +970,7 @@ form button:hover {
   }
   .menu_btn:hover {
     border: none;
+    background: transparent;
   }
   .nav_content ul {
     display: none;
