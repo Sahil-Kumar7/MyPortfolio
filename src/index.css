@@ -960,7 +960,12 @@ form button:hover {
 }
 @media (max-width: 769px) {
   .menu_btn{
-    display: none;
+    display: block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
   }
   .nav_content ul {
     display: none;
