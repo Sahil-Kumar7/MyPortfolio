@@ -118,6 +118,7 @@ body {
   font-size: 1.5rem;
   display: flex;
   align-items: center;
+  text-align: center;
   justify-content: center;
   border: none;
   border-radius: 0.4rem;
@@ -960,6 +961,9 @@ form button:hover {
 @media (max-width: 769px) {
   .menu_btn{
     display: block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
   }
   .nav_content ul {
     display: none;
