@@ -964,6 +964,7 @@ form button:hover {
     align-items: center;
     text-align: center;
     justify-content: center;
+    padding-right: 1rem;
   }
   .nav_content ul {
     display: none;
