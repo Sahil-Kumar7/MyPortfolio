@@ -966,6 +966,10 @@ form button:hover {
     justify-content: center;
     background: transparent;
     border: none;
+    outline: none;
+  }
+  .menu_btn:hover {
+    border: none;
   }
   .nav_content ul {
     display: none;
