@@ -48,7 +48,7 @@ export const PROJECTS = [
             "Key features include: User Authentication, Features post selection, List of Authors, Editing posts, Password hashing and many more",
             "The Frontend of this project has been deployed with Vercel for a smooth user experience, and backend powered by Render for reliable performance. "
         ],
-        live: "https://insight-echo-client.vercel.app/",
+        live: "https://insightecho.vercel.app/",
         code: "https://github.com/Sahil-Kumar7/InsightEcho-Client.git"
     },
     {
