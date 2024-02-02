@@ -72,7 +72,7 @@ export const PROJECTS = [
             "Utilized Axios for handling HTTP requests between the frontend and backend, ensuring smooth data transfer and interaction.",
             "Enhanced user experience with loading spinners and Notistack notifications to provide feedback on successful operations or errors encountered during book management tasks."
         ],
-        live: "",
+        live: "https://book-management-system-mern.vercel.app/",
         code: "https://github.com/Sahil-Kumar7/BookStore.git"
     }
 ]
