@@ -60,8 +60,8 @@ export const PROJECTS = [
             "Utilized xlsx for Excel-to-JSON conversion and leveraged api2pdf for custom certificate generation from JSON data.",
             "Implemented Nodemailer to send certificates to email recipients listed in the Excel file."
         ],
-        live: "",
-        code: ""
+        live: "https://tree-certificate-generator.vercel.app/",
+        code: "https://github.com/Sahil-Kumar7/Certificate-Generator.git"
     },
     {
         title: "Book Management System",
